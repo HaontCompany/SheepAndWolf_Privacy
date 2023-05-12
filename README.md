@@ -42,8 +42,7 @@ Our Services are otherwise not intended for children. If you are aware that our 
 Online resources:
 
     Privacy Policy https://unity.com/legal/game-player-and-app-user-privacy-policy
-    Service Information https://privacy.google.com/businesses/adsservices/
-    Partner policy https://policies.google.com/technologies/partner-sites
+    Service Information https://unity.com/products/unity-ads
     Ad technology providers https://unity.com/ru
 
 3.2 Google Play Services
