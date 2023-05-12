@@ -12,7 +12,7 @@ The app uses advertising (and in app payments) to make revenue. The app uses thi
 
 Links to privacy policies of third party service providers used in the app
 
-Google Play Services https://www.google.com/policies/privacy/ AdMob https://support.google.com/admob/answer/6128543
+Google Play Services https://www.google.com/policies/privacy/ UnityAds https://unity.com/legal/game-player-and-app-user-privacy-policy
 
 2.) Sharing Your Information
 
@@ -25,28 +25,26 @@ Your personal information may be disclosed:
 
     What information are collected and why
 
-3.1 AdMob
+3.1 UnityAds and Children’s Privacy
 
-AdMob, is Google's mobile app advertising platform designed specifically for app developers. In order to understand Google's use of Data, consult Google's partner policy.
+Our Policies Concerning Children 
 
-Personal Data:
+Developers using Unity’s Ads Service may offer any of the following three categories of applications: 1) child-directed (Users are likely children), 2) mixed audience (Users are both children and non-children), 3) non-child directed (Users are unlikely to be children). If the application is mixed audience, the Developer should implement an age-gate where required by law, and send a signal to Unity which indicates that we need to limit data collection and serve non-personalized ads. The Developer similarly categorizes applications which are specifically child-directed. A child is considered to be any User under the age of consent in their applicable jurisdiction.  
 
-    Online identifiers, including cookie identifiers
-    IP addresses
-    Device identifiers
-    Client identifiers
-    unique device identifiers for advertising (Google Advertiser ID or IDFA, for example)
-    Usage Data.
+In the event we receive a signal from a Developer, we reduce our data collection for our Ads Service. In such instances, we will only collect Personal Information listed below. We collect this Personal Information for internal operations and our legitimate interests in providing the Service.
 
-Retention: Google anonymizes the log data by removing part of the IP address (after 9 months) and cookie information (after 18 months)
+    IP address is used to provide a compliant experience suitable for the User’s region.
+    Unique Installation-specific ID is used for operational purposes related to the serving of contextual advertisements.
+    User ID is used in connection with providing rewards in exchange for watching an ad. Unity uses a developer-set identification (User ID) to let the Developer know when a User with the User ID has completed the watched the ad and is therefore entitled to receive the in-game reward (coin, gems, etc.).  
+
+Our Services are otherwise not intended for children. If you are aware that our Services are otherwise collecting Personal Information about children, please contact us at DPO@unity3d.com
 
 Online resources:
 
-    Privacy Policy https://www.google.com/policies/technologies/ads/
-    Opt out https://www.google.com/settings/ads
+    Privacy Policy https://unity.com/legal/game-player-and-app-user-privacy-policy
     Service Information https://privacy.google.com/businesses/adsservices/
     Partner policy https://policies.google.com/technologies/partner-sites
-    Ad technology providers https://support.google.com/admob/answer/9012903
+    Ad technology providers https://unity.com/ru
 
 3.2 Google Play Services
 
@@ -75,10 +73,6 @@ I am striving to use commercially acceptable means of protecting your Personal I
     Links to Other Sites
 
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
-
-    Children’s Privacy
-
-These Services do not address anyone under the age of 16. I do not knowingly collect personally identifiable information from children under 16. In the case I discover that a child under 16 has provided me with personal information, I immediately delete those informations. If you are a parent or guardian and you are aware that your child has provided personal information, please contact me so that I will be able to do necessary actions.
 
     Distribution
 
