@@ -13,7 +13,7 @@ The app uses advertising (and in app payments) to make revenue. The app uses thi
 Links to privacy policies of third party service providers used in the app
 
 Google Play Services https://www.google.com/policies/privacy/ UnityAds https://unity.com/legal/game-player-and-app-user-privacy-policy
-
+1) Facebook SDK Privacy Policy https://www.facebook.com/privacy/policy/?entry_point=data_policy_redirect&entry=0
 2.) Sharing Your Information
 
 The developer will share personal information with third parties only in the ways that are described in this privacy statement.
